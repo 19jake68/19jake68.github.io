@@ -27,10 +27,13 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jake and I'm a full-stack web developer. A professional with 7 years of IT experience.
   <ul>
     <li>Strong Web Development Experience</li>
+    <li>Proficient in <mark>PHP</mark>, <mark>MySQL</mark>, <mark>HTML5</mark>, <mark>CSS3</mark>, <mark>JavaScript</mark>, <mark>Angular</mark>, <mark>PolymerJS</mark>, <mark>NodeJS</mark> and <mark>React.</mark></li>
+    <li>Experienced in various AWS Cloud Products like <mark>EC2</mark>, <mark>RDS</mark>, <mark>DynamoDB</mark>, <mark>S3</mark>, <mark>Route53</mark>, <mark>VPC</mark>, <mark>Lambda</mark>, <mark>Elastic Beanstalk.</mark></li>
+    <li>Responsible of leading a team of web developers.</li>
+    <li>Responsible for the quality of project's technical deliverable.</li>
+    <li>Providing guidance to other team members on web development issues</li>
   </ul>
-  As well as making web apps I also have experience in creating hybrid mobile and desktop apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>NodeJs</mark>, <mark>Angular</mark>, <mark>PolymerJs</mark>, <mark>PHP</mark>, <mark>HTML5</mark>, <mark>CSS3</mark>, <mark>JavaScript</mark> and <mark>Eating Pizza</mark>
+  As well as making web apps I also have experience in administering linux servers, and creating hybrid mobile and desktop apps.
 
 # Projects Section
 # projects_title: Projects
