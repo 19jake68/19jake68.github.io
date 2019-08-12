@@ -2,7 +2,7 @@
   company: RCG Global Services
   link: https://rcgglobalservices.com/
   job_title: Full Stack Web Developer
-  dates: November 2017 - Present
+  dates: June 2017 - Present
   quote: >
     RCG brings focused expertise to affect business change, enable digital transformation, and deliver measured value and impact.
   description: | # this will include new lines to allow paragraphs
@@ -24,12 +24,13 @@
     - Jenkins
     - Docker
 
+  <hr>
 
 - layout: left
   company: Zone Laser Support Systems, Inc.
   link: https://playzonelaser.com/
   job_title: Full Stack Web Developer
-  dates: November 2017 - Present
+  dates: February 2016 - June 2017
   quote: >
     From our humble beginning in 1987, Zone Laser Tag has become the oldest and largest manufacturer and supplier of indoor laser tag systems. Known by different names, *Zone* is the one that has always stuck. Players know us as Zone 3, Laserzone, Darkzone, Megazone, Ultrazone and many more. As a company we’ve never forced people to take our name, instead letting our products do the talking.
   description: | # this will include new lines to allow paragraphs
@@ -51,27 +52,26 @@
     - Built using Laravel 5 PHP Framework
     - Server Administrator (AWS EC2, S3, RDS)
 
-
+  <hr>
+  
 - layout: left
   company: Indigo Entertainment
   link: http://indigo-entertainment.com/
-  job_title: Full Stack Web developer
+  job_title: Full Stack Web Developer
   dates: November 2013 - February 2016
   quote: >
     Indigo-Entertainment is a global, creative studio that provides online and mobile game development services to clients around the world.
   description: | # this will include new lines to allow paragraphs
     Responsible for working on a range of small-large scale projects particularly Web Applications, Admin Panels, RESTFul APIs using primarily Yii PHP Framework, Slim PHP Framework, Bootstrap CSS Framework, Materialize CSS Framework, JavaScript frameworks like jQuery and AngularJS, working on a new trend like developing web apps using AngularJS, HTML5, CSS3, and RESTful APIs that can be compiled to PhoneGap and Google Chrome Extension. 
 
-    <strong>Independent Projects</strong>
+    <strong>Internal Projects</strong>
     - Mashup Tactics mobile game back end RESTful API and Admin Panel 
     - Hyperman mobile game back end RESTful API 
-
 
     <strong>CLIENT: BACKLIGHT</strong>
     - Web Application/Admin Panel for MarbleLife mobile app using Slim PHP Framework, Materialize CSS Framework and jQuery 
     - RESTful APIs for MarbleLife mobile app using Slim PHP Framework 
     - Server Administrator (Linux OS, Amazon S3) 
-
 
     <strong>CLIENT: SAMSUNG</strong>
     - Developed a Web Application/Admin Panel for 2 online mobile games using Yii PHP Framework 
@@ -80,12 +80,10 @@
     - Admin Panel Maintenance and upgrades 
     - RESTful APIs upgrades 
 
-
     <strong>CLIENT: MOXY</strong>
     - Developed a Web Application/Admin Panel for mobile app using Yii PHP Framework 
     - Developed RESTful APIs using PHP for mobile app 
     - Server Administrator (Linux OS) 
-
 
     <strong>CLIENT: CARTOON NETWORK CHA CHING</strong>
     - Developed a Web Application/Admin Panel for Chaching Website using Yii PHP Framework 
