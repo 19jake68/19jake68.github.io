@@ -33,23 +33,10 @@
   quote: >
     From our humble beginning in 1987, Zone Laser Tag has become the oldest and largest manufacturer and supplier of indoor laser tag systems. Known by different names, *Zone* is the one that has always stuck. Players know us as Zone 3, Laserzone, Darkzone, Megazone, Ultrazone and many more. As a company we’ve never forced people to take our name, instead letting our products do the talking.
   description: | # this will include new lines to allow paragraphs
-    Responsible for developing backend/frontend tasks like REST APIs, Web Apps and Admin Panels using different PHP frameworks like Laravel 5, SLIM 3. Using different JS libraries like jQuery and AngularJS depending on the project requirements. Familiarity with different CSS Frameworks like Materialize CSS, Bootstrap and Semantic UI. 
+    Responsible for developing various projects from front-end UIs to Back-end Apis. Deployed realtime web-based scoreboard and kiosk across the company's clients globally.
+    Responsible for developing backend/frontend tasks like REST APIs, Web Apps and Admin Panels using various PHP frameworks. Using different JS libraries depending on project requirements. Familiarity with different CSS Frameworks like Materialize CSS, Bootstrap and Semantic UI.
 
-    <strong>Web based kiosk for our company's clients all over the world</strong>
-    - Developed a web based app using AngularJS and Bootstrap 3
-    - REST APIs are developed using Laravel 5 PHP Framework
-    - Server Administrator (AWS EC2, S3, CodeDeploy, RDS, Route53) 
-
-    <strong>Web based Scoreboard</strong>
-    - Developed a web based realtime scoreboard using AngularJS
-    - REST APIs are developing using SLIM 3 PHP Framework
-    - Server Administrator (Custom Linux) 
-
-    <strong>Admin Panel</strong>
-    - Developing an admin panel for the whole company and client using Materialize as the CSS Framework
-    - Using jQuery as the js library for the project
-    - Built using Laravel 5 PHP Framework
-    - Server Administrator (AWS EC2, S3, RDS)
+    I also administered servers and deployed projects using AWS services (EC2, S3, CodeDeploy, RDS, Route53, Lambda, etc)
     <hr>
 
 - layout: left
@@ -60,35 +47,6 @@
   quote: >
     Indigo-Entertainment is a global, creative studio that provides online and mobile game development services to clients around the world.
   description: | # this will include new lines to allow paragraphs
-    Responsible for working on a range of small-large scale projects particularly Web Applications, Admin Panels, RESTFul APIs using primarily Yii PHP Framework, Slim PHP Framework, Bootstrap CSS Framework, Materialize CSS Framework, JavaScript frameworks like jQuery and AngularJS, working on a new trend like developing web apps using AngularJS, HTML5, CSS3, and RESTful APIs that can be compiled to PhoneGap and Google Chrome Extension. 
+    Responsible for working on a range of small-large scale projects like Web Applications, Admin Panels, RESTFul APIs using various frameworks from PHP to NodeJS. Using the latest trends on web development such us AngularJS, HTML5, CSS3, and APIs.
 
-    <strong>Internal Projects</strong>
-    - Mashup Tactics mobile game back end RESTful API and Admin Panel 
-    - Hyperman mobile game back end RESTful API 
-
-    <strong>CLIENT: BACKLIGHT</strong>
-    - Web Application/Admin Panel for MarbleLife mobile app using Slim PHP Framework, Materialize CSS Framework and jQuery 
-    - RESTful APIs for MarbleLife mobile app using Slim PHP Framework 
-    - Server Administrator (Linux OS, Amazon S3) 
-
-    <strong>CLIENT: SAMSUNG</strong>
-    - Developed a Web Application/Admin Panel for 2 online mobile games using Yii PHP Framework 
-    - Developed RESTful APIs using PHP for 2 online mobile games 
-    - Server Administrator (Amazon Web Server -- EC2, DynamoDB, RDS, S3) 
-    - Admin Panel Maintenance and upgrades 
-    - RESTful APIs upgrades 
-
-    <strong>CLIENT: MOXY</strong>
-    - Developed a Web Application/Admin Panel for mobile app using Yii PHP Framework 
-    - Developed RESTful APIs using PHP for mobile app 
-    - Server Administrator (Linux OS) 
-
-    <strong>CLIENT: CARTOON NETWORK CHA CHING</strong>
-    - Developed a Web Application/Admin Panel for Chaching Website using Yii PHP Framework 
-    - Server Administrator (Amazon Elastic Beanstalk, S3) 
-    - Admin Panel Maintenance and upgrades 
-
-    <strong>CLIENT: CARTOON NETWORK CHA CHING GAMES (BAND MANAGER AND WORLD TOUR)</strong>
-    - Web Application for Cha-ching's Games localizations, using Yii PHP Framework, HTML5, CSS3, jQuery and MySQL 
-    - Server Administrator (Amazon Elastic Beanstalk, S3) 
-    - Admin Panel Maintenance and upgrades 
+    Aside from web development, I managed services from AWS particularly EC2, DynamoDB, RDS, S3, Elastic Beanstalk
