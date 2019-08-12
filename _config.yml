@@ -24,22 +24,11 @@ linkedin_username: jacob-ortega-706241b7
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jake and I'm a full-stack web developer. A professional with 7 years of IT experience.
-  <ul>
-    <li>Strong Web Development Experience</li>
-    <li>Proficient in <mark>PHP</mark>, <mark>MySQL</mark>, <mark>HTML5</mark>, <mark>CSS3</mark>, <mark>JavaScript</mark>, <mark>Angular</mark>, <mark>PolymerJS</mark>, <mark>NodeJS</mark> and <mark>React.</mark></li>
-    <li>Experienced in various AWS Cloud Products like <mark>EC2</mark>, <mark>RDS</mark>, <mark>DynamoDB</mark>, <mark>S3</mark>, <mark>Route53</mark>, <mark>VPC</mark>, <mark>Lambda</mark>, <mark>Elastic Beanstalk.</mark></li>
-    <li>Responsible of leading a team of web developers.</li>
-    <li>Responsible for the quality of project's technical deliverable.</li>
-    <li>Providing guidance to other team members on web development issues</li>
-  </ul>
+  Hi, my name's Jake, I'm a full stack web developer with over 7 years experience, based in the Philippines. I am currently working for RCG Global Services as an IT Consultant and my current project is on Walt Disney.
+
+  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>ES6 Javascript</mark>, <mark>Angular & NodeJS</mark>, <mark>PHP5/7</mark>, <mark>MySQL & MongoDB</mark>, <mark>HTML5, CSS3, JavaScript</mark>, <mark>SASS/LESS</mark>, <mark>git</git> and <mark>AWS</mark> services.
   
-  Personal Skills:
-  Creative Thinker, Imaginative, Business-minded, Goal Oriented, Energetic, Initiative,
-  Attention to detail; Meticulous, Innovative, Problem Solving, Reliable, Analytical,
-  Team Player 
-  
-  As well as making web apps I also have experience in administering linux servers, and creating hybrid mobile and desktop apps.
+  As well as making web apps I also have experience in administering linux servers, and creating hybrid mobile and desktop apps, managing and leading a team of front-end developers.
 
 # Projects Section
 # projects_title: Projects

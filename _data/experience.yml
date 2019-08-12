@@ -6,23 +6,18 @@
   quote: >
     RCG brings focused expertise to affect business change, enable digital transformation, and deliver measured value and impact.
   description: | # this will include new lines to allow paragraphs
-    Responsible for working on a large scale projects particularly on Web Applications
+    I am currently working at RCG Global Services as an IT Consultant and my current projects are from The Walt Disney Company. Being a full stack engineer with Disney, I'm focused mostly on the front end of Disney's e-commerce website dealing with their different theme parks globally. Working as part of a scrum team consisting of 4 developers, 2 testers, PO/BA, Tech Lead and Managers I have the opportunity to help drive the team towards and work with the PO defining what we are building.
+
+    I spend most of my time working on a specific area of a large application that our team take ownership over. The front end is an <mark>Angular</mark>, <mark>Polymer</mark> app that talks to an API built using a collection of <mark>Java</mark> and <mark>NodeJS</mark> microservices. I have spent time working in multiple parts of the stack including helping to define our front end architecture to follow best practices to implementing single page application on both desktop and mobile web browsers.
+    Responsible for working on a large scale projects particularly on Web Applications.
+
+    I enjoy learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams in the office. I am always looking to suggest improvements and challenge what and how we are working to make sure we are delivering the best service to the customers while also developing to the highest standards.
 
     <strong>Our Client: The Walt Disney Company</strong>
     - Responsible on developing responsive web pages across all Disney's brands using the latest web tools like Angular, PolymerJs, NodeJs
 
     <strong>Development Approach</strong>
     - Agile Software Development
-
-    <strong>Tools</strong>
-    - JIRA - Issue & Project Tracking Tool
-    - GIT - versioning and revision control tool
-    - Grunt/NPM/Bower - we use these package managers to meet our project's dependencies
-    - Angular/Polymer - JavaScript library for building web applications using polymer Web Components
-    - ChaiJS - BDD / TDD assertion library for <a href="http://nodejs.org">node</a> and the browser that can be delightfully paired with any javascript testing framework
-    - MochaJS - JavaScript test framework for Node.js programs, featuring browser support, asynchronous testing, test coverage reports, and use of any assertion library.
-    - Jenkins
-    - Docker
     <hr>
 
 - layout: left
@@ -33,10 +28,7 @@
   quote: >
     From our humble beginning in 1987, Zone Laser Tag has become the oldest and largest manufacturer and supplier of indoor laser tag systems. Known by different names, *Zone* is the one that has always stuck. Players know us as Zone 3, Laserzone, Darkzone, Megazone, Ultrazone and many more. As a company we’ve never forced people to take our name, instead letting our products do the talking.
   description: | # this will include new lines to allow paragraphs
-    Responsible for developing various projects from front-end UIs to Back-end Apis. Deployed realtime web-based scoreboard and kiosk across the company's clients globally.
-    Responsible for developing backend/frontend tasks like REST APIs, Web Apps and Admin Panels using various PHP frameworks. Using different JS libraries depending on project requirements. Familiarity with different CSS Frameworks like Materialize CSS, Bootstrap and Semantic UI.
-
-    I also administered servers and deployed projects using AWS services (EC2, S3, CodeDeploy, RDS, Route53, Lambda, etc)
+    While working at ZLSS, I was able to work on a small number of projects ranging from real-time web based leaderboard to web based kiosks. I enjoy being able to work together with the company's owners. At ZLSS, I was also given the opportunity to work with all of my core skills and to gain new skills in things such as <mark>AngularJS & NodeJs</mark>, <mark>Symfony</mark>, <mark>SVN</mark>. I also improved my proficiency with <mark>AWS Services</mark> and <mark>RESTful APIs</mark>.
     <hr>
 
 - layout: left
@@ -47,6 +39,16 @@
   quote: >
     Indigo-Entertainment is a global, creative studio that provides online and mobile game development services to clients around the world.
   description: | # this will include new lines to allow paragraphs
-    Responsible for working on a range of small-large scale projects like Web Applications, Admin Panels, RESTFul APIs using various frameworks from PHP to NodeJS. Using the latest trends on web development such us AngularJS, HTML5, CSS3, and APIs.
+    I started working for Indigo Entertainment after I graduated from University of the East. It was during this role that I learnt many of the fundamentals that I have been building on over the past 3 years. Whilst at Indigo I had the opportunity to work with: <mark>AWS Services</mark>, <mark>Mobile Games Back-end APIs</mark>, <mark>Yii PHP Framework</mark>, <mark>CodeIgniter</mark>, <mark>HTML5</mark>, <mark>Bootstrap</mark> and <mark>Git</mark>.
 
-    Aside from web development, I managed services from AWS particularly EC2, DynamoDB, RDS, S3, Elastic Beanstalk
+    I feel like having the opportunity to use a large range of different things early on in my career has given me the drive to always want to try new tools and frameworks.
+    <hr>
+
+- layout: left
+  company: 10.10 Concepts, Inc.
+  job_title: Web Developer
+  dates: October 2010 - June 2012
+  quote: >
+    I become a working student since October 2010, started developing websites while I am a sophomore student at University of the East. 
+  description: | # this will include new lines to allow paragraphs
+    I started my career as a working student at 10.10 Concepts, as an associate web developer we focused on creating school websites, logos and IDs. It was a sudden career as I have to give time for my Thesis.
