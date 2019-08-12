@@ -23,8 +23,7 @@
     - MochaJS - JavaScript test framework for Node.js programs, featuring browser support, asynchronous testing, test coverage reports, and use of any assertion library.
     - Jenkins
     - Docker
-
-  <hr>
+    <hr>
 
 - layout: left
   company: Zone Laser Support Systems, Inc.
@@ -51,9 +50,8 @@
     - Using jQuery as the js library for the project
     - Built using Laravel 5 PHP Framework
     - Server Administrator (AWS EC2, S3, RDS)
+    <hr>
 
-  <hr>
-  
 - layout: left
   company: Indigo Entertainment
   link: http://indigo-entertainment.com/
