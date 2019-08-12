@@ -1,21 +1,64 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
+  company: RCG Global Services
+  link: https://rcgglobalservices.com/
+  job_title: Full Stack Web Developer
   dates: November 2017 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    RCG brings focused expertise to affect business change, enable digital transformation, and deliver measured value and impact.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Responsible for working on a large scale projects particularly on Web Applications
+
+    <strong>Our Client: The Walt Disney Company</strong>
+    - Responsible on developing responsive web pages across all Disney's brands using the latest web tools like Angular, PolymerJs, NodeJs
+
+    <strong>Development Approach</strong>
+    - Agile Software Development
+
+    <strong>Tools</strong>
+    - JIRA - Issue & Project Tracking Tool
+    - GIT - versioning and revision control tool
+    - Grunt/NPM/Bower - we use these package managers to meet our project's dependencies
+    - Angular/Polymer - JavaScript library for building web applications using polymer Web Components
+    - ChaiJS - BDD / TDD assertion library for <a href="http://nodejs.org">node</a> and the browser that can be delightfully paired with any javascript testing framework
+    - MochaJS - JavaScript test framework for Node.js programs, featuring browser support, asynchronous testing, test coverage reports, and use of any assertion library.
+    - Jenkins
+    - Docker
+
+
+- layout: left
+  company: Zone Laser Support Systems, Inc.
+  link: https://playzonelaser.com/
+  job_title: Full Stack Web Developer
+  dates: November 2017 - Present
+  quote: >
+    From our humble beginning in 1987, Zone Laser Tag has become the oldest and largest manufacturer and supplier of indoor laser tag systems. Known by different names, *Zone* is the one that has always stuck. Players know us as Zone 3, Laserzone, Darkzone, Megazone, Ultrazone and many more. As a company we’ve never forced people to take our name, instead letting our products do the talking.
+  description: | # this will include new lines to allow paragraphs
+    Responsible for developing backend/frontend tasks like REST APIs, Web Apps and Admin Panels using different PHP frameworks like Laravel 5, SLIM 3. Using different JS libraries like jQuery and AngularJS depending on the project requirements. Familiarity with different CSS Frameworks like Materialize CSS, Bootstrap and Semantic UI. 
+
+    <strong>Web based kiosk for our company's clients all over the world</strong>
+    - Developed a web based app using AngularJS and Bootstrap 3
+    - REST APIs are developed using Laravel 5 PHP Framework
+    - Server Administrator (AWS EC2, S3, CodeDeploy, RDS, Route53) 
+
+    <strong>Web based Scoreboard</strong>
+    - Developed a web based realtime scoreboard using AngularJS
+    - REST APIs are developing using SLIM 3 PHP Framework
+    - Server Administrator (Custom Linux) 
+
+    <strong>Admin Panel</strong>
+    - Developing an admin panel for the whole company and client using Materialize as the CSS Framework
+    - Using jQuery as the js library for the project
+    - Built using Laravel 5 PHP Framework
+    - Server Administrator (AWS EC2, S3, RDS)
 
 
 - layout: left
   company: Indigo Entertainment
   link: http://indigo-entertainment.com/
   job_title: Full Stack Web developer
-  dates: November 2017 - Present
+  dates: November 2013 - February 2016
   quote: >
-   Indigo-Entertainment is a global, creative studio that provides online and mobile game development services to clients around the world.
+    Indigo-Entertainment is a global, creative studio that provides online and mobile game development services to clients around the world.
   description: | # this will include new lines to allow paragraphs
     Responsible for working on a range of small-large scale projects particularly Web Applications, Admin Panels, RESTFul APIs using primarily Yii PHP Framework, Slim PHP Framework, Bootstrap CSS Framework, Materialize CSS Framework, JavaScript frameworks like jQuery and AngularJS, working on a new trend like developing web apps using AngularJS, HTML5, CSS3, and RESTful APIs that can be compiled to PhoneGap and Google Chrome Extension. 
 
